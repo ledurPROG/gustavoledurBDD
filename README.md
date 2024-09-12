@@ -17,7 +17,7 @@ Here are some of the languages and tools I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </div>
 
-<div align="center">
-    
-  </a>
-</div>
+---
+
+Feel free to explore my projects and contributions. If you have any questions or need assistance, don't hesitate to reach out!
+
